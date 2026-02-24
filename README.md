@@ -11,7 +11,7 @@ This will enable the marketing team to:
 • Track campaign ROI and optimize budget allocation. 
 • Understand audience engagement patterns. 
 
-#Tech Stack
+# Tech Stack
 List the key technologies used to build the dashboard.
 
 Example: The dashboard was built using the following tools and technologies:
