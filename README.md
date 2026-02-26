@@ -29,7 +29,7 @@ Engagement rate is also strong at 13.56%, showing good audience interaction. How
 
 ➡️ Insight: While awareness and engagement are strong, there is a significant drop-off at the purchase stage, suggesting optimization opportunities in landing pages, retargeting strategy, or offer positioning.
 
-👥 Audience Insights
+👥  Insights
 
 Females (43%) drive higher engagement compared to males.
 
